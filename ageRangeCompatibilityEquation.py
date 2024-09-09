@@ -4,7 +4,7 @@ import math
 def dating_range(age):
     """
     Calcula el rango de edad mínimo y máximo recomendado según la regla "half your age plus seven"
-    o la fórmula alternativa si la edad es menor o igual a 14 años.
+    o la fórmula alternativa si la edad es menor o igual a 14 años. :)
 
     :param age: La edad de la persona (entero entre 1 y 100).
     :return: Un string con el rango de edad en el formato 'min-max'.
